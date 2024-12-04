@@ -2,14 +2,14 @@
 
 <a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
 
-<h1 align="center">
+<h1 align="left">
   <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">
     Slides Link (Online Version)
   </a>
 </h1>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">
   <div align="center">
-    <img src="https://github.com/user-attachments/assets/d99ae274-a0d1-40d6-bd4c-6f029b1af497"/>
+    <img src="https://github.com/user-attachments/assets/224826f3-44ea-4fcf-888d-e5a987bc86a6"/>
   </div>
 </a>
 
