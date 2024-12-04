@@ -1,14 +1,7 @@
-# Building an Online Presence to Unlock Opportunities
+<h1><a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">Building an Online Presence to Unlock Opportunities</a></h1>
 
-<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
-
-<h1 align="left">
-  <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">
-    Slides Link (Online Version)
-  </a>
-</h1>
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">
-  <div align="center">
+  <div align="left">
     <img src="https://github.com/user-attachments/assets/224826f3-44ea-4fcf-888d-e5a987bc86a6"/>
   </div>
 </a>
@@ -16,6 +9,24 @@
 <br>
 <hr>
 
+<a href="https://github.com/harismuneer"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=harismuneer&style=flat-square" width="125"/></a>
+
+## 🌟 Introduction
+This repository serves as a comprehensive guide to help individuals, especially beginners, understand the importance of building an online presence and leveraging platforms like **GitHub** and **LinkedIn** to unlock career opportunities. It is part of the efforts under **Open Source Software Pakistan (OSSpk)** to encourage students and professionals to adopt open-source practices and establish a strong digital footprint.
+
+### 📖 Overview
+In this <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">guide</a>, you’ll find practical insights on:
+
+- **Why Online Presence Matters**: Learn how a strong digital presence can enhance your career prospects.
+- **LinkedIn**: A step-by-step guide to building an effective LinkedIn profile, including optimizing your headline, crafting a compelling summary, showcasing your skills, and leveraging LinkedIn for networking and job hunting.
+- **GitHub**: A beginner-friendly approach to learning GitHub, contributing to open-source projects, and building an impactful portfolio that showcases your coding skills.
+- **Other Platforms**: Additional tools and platforms to create a personal brand and stand out in your field.
+
+This <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">guide</a> was originally delivered as a presentation at a seminar organized by IEEE FCCU in May 2022.
+
+You can access the full guide here: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSP8akBOli5iXhvlIuBFsoi1Arfz8LPpUFQ0MrXBG6GJWA2yJ6tGvjMBYDgkbTOgj6D_GwJD9Je8myz/pub?start=false&loop=false&delayms=60000">Building Your Online Presence to Unlock Opportunities </a>
+
+## 🤝 Spread the word
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](#)
 
 If you found this repository helpful, please support it by giving it a star ⭐ to bookmark it for future reference, and consider sharing it within your circles so more people can benefit from this effort.
